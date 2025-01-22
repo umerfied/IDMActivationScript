@@ -1,0 +1,2 @@
+# IDMActivationScript
+IDM Activation Script
